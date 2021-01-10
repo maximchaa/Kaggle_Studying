@@ -1,3 +1,3 @@
 # Kaggle_Studying
 
-Rather temporary
+Rather temporary, but also very useful
